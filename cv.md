@@ -19,4 +19,4 @@
 
 <b><i>Email:</i></b> yu.korotkova@list.ru
 
-<b><i>Phone:</b></i> 8(985) 782-00-15
+<b><i>Phone:</b></i> 000000000
